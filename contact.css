@@ -1,0 +1,12 @@
+footer{
+    background: color #181818;;
+    color: aliceblue;
+    width: 100%;
+    padding: 2px;
+}
+footer{
+    position: absolute;
+    text-align: center;
+    padding: 0px 0;
+    font-size: 25px;
+}
